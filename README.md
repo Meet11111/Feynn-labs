@@ -1,0 +1,3 @@
+# Feynn-labs
+Projects
+Farmers were unable to use traditional crops to select the most suitable crop for their land Non-scientific methods are a serious problem for countries where about 50 percent are affected. A percentage of the population works in agriculture. Both correct availability and accessibility current information is preventing potential researchers from working on development Country case study. With resources within our reach, we have proposed a system can address this issue by providing predictive insights into crop sustainability. Recommendations based on machine learning models trained with needs in mind ecological and economic parameters.
